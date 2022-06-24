@@ -7,7 +7,6 @@
 - Events
 - FS
 - Path
-- Stream
 - Streams
 - Timers
 - URL
